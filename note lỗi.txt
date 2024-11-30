@@ -1,0 +1,29 @@
+lỗi about us không có nội dung 
+lỗi wishlist không tự động cập nhật
+lỗi tìm kiếm, khi tìm kiêm như camera hay tablet lại k hiển thị 
+lỗi tìm kiếm, khi k nhập gì cần hiển thị thông báo nhập tt tìm kiếm 
+lỗi địa chỉ khi checkout, có thể nhập địa chỉ k có thật 
+lỗi khi nhấn xem chi tiết, chỉ nhấn được vào hình ảnh và tên sp
+lỗi dowload lịch sử mua hàng 
+lỗi quên mật khẩu 
+lỗi các card ở featured kích thước k bằng nhau 
+lỗi trang desktop nhưng hiển thị cả dt và camera
+lỗi đánh giá sản phẩm, k cho đánh giá cũng k hiện thông báo
+lỗi addtocard phải upload ảnh mới thêm được 
+lỗi Canon EOS 5D addto card select 
+lỗi Shopping Cart (1.15kg)
+lỗi có 12 sản phẩm nhưng hiển thị bên danh mục là 13 
+lỗi sp hết hàng nhưng vẫn cho thêm vào giỏ hàng Samsung Galaxy Tab 10.1 ***
+lỗi nhập sdt sai cũng cho 
+
+
+- 5 Trường hợp kiểm thử chức năng: Kiểm tra các chức năng cốt lõi như gửi biểu mẫu, đăng nhập, và đăng xuất.
+tc đăng kí
+tc đăng nhập
+tc tìm kiếm 
+tc thêm vào giỏ hàng
+tc checkout
+
+
+I have read and agree to the Privacy Policy
+- 5 Trường hợp kiểm thử tính khả dụng: Đánh giá giao diện người dùng, điều hướng, và trải nghiệm người dùng tổng thể.
